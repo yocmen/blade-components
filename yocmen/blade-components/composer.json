@@ -1,0 +1,27 @@
+{
+    "name": "yocmen/blade-components",
+    "description": "This package introduces the concept of components in blade templating, take it from L5.4 for L5.1 LTS",
+    "keywords": ["laravel", "l5", "html", "component", "blade"],
+    "homepage": "https://github.com/yocmen/blade-components",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yocsel Mendoza",
+            "email": "yocmen@gmail.com"
+        },
+        {
+            "name": "Taylor Otwell",
+            "email": "taylor@laravel.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/support": "5.1.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Yocmen\\BladeComponents\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
