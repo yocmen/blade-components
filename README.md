@@ -15,7 +15,7 @@ Begin by installing this package through Composer.
 ```json
 {
     "require": {
-        "yocmen/blade-components": "1.*"
+        "yocmen/blade-components": "v1.*"
     }
 }
 ```
