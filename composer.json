@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": ">=5.6.4",
+        "php": ">=5.5.38",
         "illuminate/support": "5.1.x"
     },
     "autoload": {
